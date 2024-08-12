@@ -31,7 +31,8 @@ Data Modeling: To optimize data structure for analysis, I created a data model w
 # Top countries, sales, years, products
 ![Screenshot (148)](https://github.com/user-attachments/assets/dd1f8e5a-a3a3-41a4-868a-f861fff2157e)
 
-
+# Order view
 ![Screenshot (149)](https://github.com/user-attachments/assets/a24f823c-da3a-4898-b902-3f253ceebd45)
 
+#Summary
 ![Screenshot (150)](https://github.com/user-attachments/assets/49f7ec30-0f44-47a0-8161-bee71f52614b)
