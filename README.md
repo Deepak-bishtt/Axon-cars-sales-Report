@@ -27,6 +27,11 @@ Data Modeling: To optimize data structure for analysis, I created a data model w
 
 # Some Reports View
 
+Axon cars sales Dashboard
+![Screenshot (135)](https://github.com/user-attachments/assets/88a14ad8-0e4f-4ee0-a84c-a1fde661ddef)
+
+
+
 
 
 
