@@ -23,3 +23,11 @@ Data Extraction and Cleaning: Extracting data from the designated sources, I per
 Data Loading: The cleaned and modeled data was loaded into PowerBI using appropriate features, and I meticulously documented all data loading and transformation steps.
 
 Data Modeling: To optimize data structure for analysis, I created a data model within PowerBI, establishing relationships between tables.
+
+
+
+
+
+
+
+
