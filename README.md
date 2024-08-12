@@ -25,7 +25,7 @@ Data Loading: The cleaned and modeled data was loaded into PowerBI using appropr
 Data Modeling: To optimize data structure for analysis, I created a data model within PowerBI, establishing relationships between tables.
 
 
+#Some Reports View
 
 
-![Screenshot (136)](https://github.com/user-attachments/assets/5aa2757f-bf05-4ad0-b610-65dcdbef3e19)
 
