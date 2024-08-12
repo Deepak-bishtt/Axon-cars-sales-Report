@@ -28,6 +28,7 @@ Data Modeling: To optimize data structure for analysis, I created a data model w
 # Product view
 ![Screenshot (147)](https://github.com/user-attachments/assets/267c8188-e7c4-401b-8c7c-e5acf775955d)
 
+# Top country, sales, years
 ![Screenshot (148)](https://github.com/user-attachments/assets/dd1f8e5a-a3a3-41a4-868a-f861fff2157e)
 
 
