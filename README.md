@@ -1,4 +1,4 @@
-Axon-cars-sales-Report
+# Axon-cars-sales-Report
 Overview In this project, I tackled a critical challenge faced by Axon, a classic car retailer. Axon's sales team struggled with managing and making sense of their sales data due to a lack of a centralized system. The absence of accurate and up-to-date sales reports hindered effective decision-making.
 
 To address these issues, I try to implement a robust Business Intelligence (BI) solution using Microsoft PowerBI and SQL.
@@ -15,5 +15,5 @@ Data Loading: The cleaned and modeled data was loaded into PowerBI using appropr
 
 Data Modeling: To optimize data structure for analysis, I created a data model within PowerBI, establishing relationships between tables.
 
-Some Reports View
-Axon cars sales Dashboard
+#Some Reports View
+#Axon cars sales Dashboard
