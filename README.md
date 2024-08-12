@@ -5,7 +5,9 @@ To address these issues, I try to implement a robust Business Intelligence (BI) 
 
 Project Objectives The primary objectives of this project were:
 
-Data Integration: Import and integrate data from the MySQL database into PowerBI. Data Preparation: Clean and transform the data to ensure its readiness for analysis. Data Modeling: Create a data model within PowerBI to establish relationships between different data tables and optimize data retrieval for analysis. Interactive Dashboards: Develop interactive dashboards and reports using PowerBI to assist the sales team and management in interpreting the data. Advanced Analytics: Utilize SQL for advanced analytics to extract insights that can improve sales. Real-time Access: Enable real-time access to dashboards and reports for informed, data-driven decisions. The success of the project was measured by the effectiveness of the BI solution in enhancing data management and decision-making at Axon.
+Data Integration: Import and integrate data from the MySQL database into PowerBI. Data !
+
+Preparation: Clean and transform the data to ensure its readiness for analysis. Data Modeling: Create a data model within PowerBI to establish relationships between different data tables and optimize data retrieval for analysis. Interactive Dashboards: Develop interactive dashboards and reports using PowerBI to assist the sales team and management in interpreting the data. Advanced Analytics: Utilize SQL for advanced analytics to extract insights that can improve sales. Real-time Access: Enable real-time access to dashboards and reports for informed, data-driven decisions. The success of the project was measured by the effectiveness of the BI solution in enhancing data management and decision-making at Axon.
 
 Project Implementation Steps to Solve the Capstone Project
 
@@ -15,5 +17,10 @@ Data Loading: The cleaned and modeled data was loaded into PowerBI using appropr
 
 Data Modeling: To optimize data structure for analysis, I created a data model within PowerBI, establishing relationships between tables.
 
-#Some Reports View
-#Axon cars sales Dashboard
+# Some Reports View
+# Axon cars sales Dashboard
+
+![Screenshot (145)](https://github.com/user-attachments/assets/f0171ab0-b556-45f7-b856-06a2d76096c9)
+
+# product view
+![Screenshot (146)](https://github.com/user-attachments/assets/3d23a463-a18b-4342-a042-26f6626f8bea)
