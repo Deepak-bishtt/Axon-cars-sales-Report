@@ -22,5 +22,15 @@ Data Modeling: To optimize data structure for analysis, I created a data model w
 
 ![Screenshot (145)](https://github.com/user-attachments/assets/f0171ab0-b556-45f7-b856-06a2d76096c9)
 
-# product view
+# Customer view
 ![Screenshot (146)](https://github.com/user-attachments/assets/3d23a463-a18b-4342-a042-26f6626f8bea)
+
+# Product view
+![Screenshot (147)](https://github.com/user-attachments/assets/267c8188-e7c4-401b-8c7c-e5acf775955d)
+
+![Screenshot (148)](https://github.com/user-attachments/assets/dd1f8e5a-a3a3-41a4-868a-f861fff2157e)
+
+
+![Screenshot (149)](https://github.com/user-attachments/assets/a24f823c-da3a-4898-b902-3f253ceebd45)
+
+![Screenshot (150)](https://github.com/user-attachments/assets/49f7ec30-0f44-47a0-8161-bee71f52614b)
